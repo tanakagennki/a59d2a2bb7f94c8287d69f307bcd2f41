@@ -1,0 +1,24 @@
+{
+  "name": "my_project",
+  "version": "1.0.0",
+  "description": "��#\u0000 \u0000M\u0000y\u0000 \u0000P\u0000r\u0000o\u0000j\u0000e\u0000c\u0000t\u0000\r\u0000 \u0000#\u0000 \u0000a\u00005\u00009\u0000d\u00002\u0000a\u00002\u0000b\u0000b\u00007\u0000f\u00009\u00004\u0000c\u00008\u00002\u00008\u00007\u0000d\u00006\u00009\u0000f\u00003\u00000\u00007\u0000b\u0000c\u0000d\u00002\u0000f\u00004\u00001\u0000\r\u0000 \u0000#\u0000 \u0000�0�0�0�0�0�0�i��\r\u0000 \u0000",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tanakagennki/a59d2a2bb7f94c8287d69f307bcd2f41.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tanakagennki/a59d2a2bb7f94c8287d69f307bcd2f41/issues"
+  },
+  "homepage": "https://github.com/tanakagennki/a59d2a2bb7f94c8287d69f307bcd2f41#readme",
+  "devDependencies": {
+    "ethers": "^6.13.5",
+    "hardhat": "^2.22.18"
+  }
+}
