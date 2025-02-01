@@ -1,0 +1,16 @@
+from selenium import webdriver
+
+# chromedriver のパスを指定
+driver_path = r"C:\Users\sony\Documents\MyProject\MySeleniumProject\chromedriver.exe"
+
+# WebDriverを使用してブラウザを起動
+driver = webdriver.Chrome(executable_path=driver_path)
+
+# 任意のURLにアクセス
+driver.get('https://www.example.com')
+
+# 任意の操作（ここではページタイトルを表示）
+print(driver.title)
+
+# ブラウザを終了
+driver.quit()

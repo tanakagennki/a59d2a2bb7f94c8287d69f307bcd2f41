@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "RIElgScDwTw=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\sony\\Documents\\MyProject\\MySeleniumProject\\MySeleniumProject.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\sony\\.nuget\\packages\\selenium.chrome.webdriver\\85.0.0\\selenium.chrome.webdriver.85.0.0.nupkg.sha512",
+    "C:\\Users\\sony\\.nuget\\packages\\selenium.webdriver\\4.28.0\\selenium.webdriver.4.28.0.nupkg.sha512"
+  ],
+  "logs": []
+}
