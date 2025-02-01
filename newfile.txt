@@ -1,0 +1,1 @@
+echo "This is a new file for Git!" > "C:\Users\sony\Documents\MyProject\newfile.txt"
