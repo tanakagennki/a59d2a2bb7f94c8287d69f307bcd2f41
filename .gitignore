@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Python関連
 *.pyc
 *.pyo
@@ -24,3 +25,8 @@ node_modules/
 .env
 node_modules/
 *.log
+=======
+node_modules/
+.env
+.env
+>>>>>>> origin/main
